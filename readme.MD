@@ -1,14 +1,14 @@
 Hi 👋 My name is Aishita Saxena
 ===============================
 
-Front-end web developer
+Full Stack Web Developer
 -----------------------
 
-I am currently pursuing btech (2nd year) and have mastered C language and front-end development and working to build skills in backend development.
+I am currently pursuing btech (4th year) and have mastered many language like C++ , JAVASCRIPT and Full Stack development and working to be proficient in my skills.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aishita.saxena@gmail.com](mailto:aishita.saxena@gmail.com)
-* 🧠  I'm learning Data Science
+* 🧠  I'm currently working on projects based on y skills.
 * 🤝  I'm open to collaborating on new startups and projects.
 
 <a href="https://www.github.com/AishitaSaxena" target="_blank" rel="noreferrer"><img
