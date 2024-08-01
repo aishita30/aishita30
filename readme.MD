@@ -4,7 +4,7 @@ Hi 👋 My name is Aishita Saxena
 Full Stack Web Developer
 -----------------------
 
-I am currently pursuing btech (4th year) and have mastered many language like C++ , JAVASCRIPT and Full Stack development and working to be proficient in my skills.
+I am currently pursuing btech (4th year) and have mastered many language like C++ , JAVASCRIPT and Front-end Web development and working to be proficient in my skills.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aishita.saxena@gmail.com](mailto:aishita.saxena@gmail.com)
