@@ -8,7 +8,7 @@ I am currently pursuing btech (4th year) and have mastered many language like C+
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aishita.saxena@gmail.com](mailto:aishita.saxena@gmail.com)
-* 🧠  I'm currently working on projects based on y skills.
+* 🧠  I'm currently working on projects based on my skills.
 * 🤝  I'm open to collaborating on new startups and projects.
 
 <a href="https://www.github.com/AishitaSaxena" target="_blank" rel="noreferrer"><img
