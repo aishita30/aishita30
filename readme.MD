@@ -1,4 +1,4 @@
-Hi 👋 My name is Aishita Saxena
+Hi , My name is Aishita Saxena
 ===============================
 
 Full Stack Web Developer
