@@ -12,7 +12,7 @@ I am currently pursuing btech (4th year) and have mastered many language like C+
 * 🤝  I'm open to collaborating on new startups and projects.
 
 <a href="https://www.github.com/AishitaSaxena" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AishitaSaxena?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/aishita30?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
@@ -32,8 +32,8 @@ src="https://img.shields.io/github/followers/AishitaSaxena?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AishitaSaxena"><img src="https://github-readme-stats.vercel.app/api?username=AishitaSaxena&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AishitaSaxena's GitHub stats" /></a>
+<a href="http://www.github.com/AishitaSaxena"><img src="https://github-readme-stats.vercel.app/api?username=aishita30&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AishitaSaxena's GitHub stats" /></a>
 
-<a href="http://www.github.com/AishitaSaxena"><img src="https://activity-graph.herokuapp.com/graph?username=AishitaSaxena&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/AishitaSaxena"><img src="https://activity-graph.herokuapp.com/graph?username=aishita30&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/AishitaSaxena" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishitaSaxena&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/AishitaSaxena" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishita30&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
